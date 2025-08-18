@@ -1,2 +1,2 @@
 # Alarm-Clock
-This is a simple alarm clock that has been done by using python 
+I created a Python program that allows users to set alarms with customizable tones and snooze options
